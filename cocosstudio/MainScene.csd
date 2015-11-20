@@ -17,13 +17,13 @@
             <FileData Type="Normal" Path="HelloWorld.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="base" ActionTag="1009435292" Tag="14" IconVisible="False" VerticalEdge="BothEdge" LeftMargin="-1502.6074" RightMargin="-1537.3926" TopMargin="-1087.7449" BottomMargin="-1272.2551" ctype="SpriteObjectData">
+          <AbstractNodeData Name="base" ActionTag="1009435292" Tag="14" IconVisible="False" VerticalEdge="BothEdge" LeftMargin="-1449.6365" RightMargin="-1590.3635" TopMargin="-520.7886" BottomMargin="-1839.2114" ctype="SpriteObjectData">
             <Size X="4000.0000" Y="3000.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="497.3925" Y="227.7449" />
-            <Scale ScaleX="0.2000" ScaleY="0.2000" />
+            <AnchorPoint ScaleX="0.4800" ScaleY="0.7779" />
+            <Position X="470.5491" Y="494.4760" />
+            <Scale ScaleX="0.2481" ScaleY="0.2300" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5181" Y="0.3559" />
+            <PrePosition X="0.4902" Y="0.7726" />
             <PreSize X="4.1667" Y="4.6875" />
             <FileData Type="Normal" Path="Imagen 107.jpg" Plist="" />
             <BlendFunc Src="770" Dst="771" />
