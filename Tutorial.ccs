@@ -1,0 +1,12 @@
+<Solution>
+  <PropertyGroup Name="Tutorial" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Image Name="Imagen 107.jpg" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
